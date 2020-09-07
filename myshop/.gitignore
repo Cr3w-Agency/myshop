@@ -1,0 +1,18 @@
+# virtualenv
+.env
+.venv/
+venv/
+ENV/
+# mac
+.DS_Store
+.idea/
+
+*.log
+*.pot
+*.pyc
+
+*.egg-info/
+.installed.cfg
+*.egg
+
+__pycache__/
